@@ -12,6 +12,6 @@
 - Second item
 - Third item
 `code`
-
+---
 [Link](https://www.google.com)
 ![image](image.jpg)
